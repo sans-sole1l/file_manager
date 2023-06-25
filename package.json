@@ -1,0 +1,20 @@
+{
+  "name": "file_manager",
+  "version": "1.0.0",
+  "description": "cli file manager",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sans-sole1l/file_manager.git"
+  },
+  "author": "sans-sole1l",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sans-sole1l/file_manager/issues"
+  },
+  "homepage": "https://github.com/sans-sole1l/file_manager#readme"
+}
